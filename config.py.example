@@ -1,0 +1,2 @@
+apikey = 'API Key generated via User Settings page'
+octoprinturl = 'http://myoctoprinturl_or_ip:80'

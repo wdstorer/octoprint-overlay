@@ -1,0 +1,4 @@
+config.py
+octoprint.output
+notes
+*.pyc
