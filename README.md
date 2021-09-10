@@ -1,2 +1,2 @@
 # octoprint-overlay
-Python script that writes API data to txt file for use with OBS
+Python script that writes Octoprint API data to stdout for use with OBS
